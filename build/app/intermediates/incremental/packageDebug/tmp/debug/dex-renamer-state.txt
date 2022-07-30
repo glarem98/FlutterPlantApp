@@ -1,0 +1,4 @@
+#Sat Jul 30 12:47:09 IRDT 2022
+base.0=/Users/glaremohamadkhani/StudioProjects/glarefirst/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
